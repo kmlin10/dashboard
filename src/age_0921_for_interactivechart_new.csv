@@ -1,0 +1,1161 @@
+﻿Age group,Term,Freq,Category
+16 - 24,"""absorb"" (19.65%)",1.326946641,Product Usage
+25 - 34,"""absorb"" (19.65%)",0.915461054,Product Usage
+35 - 44,"""absorb"" (19.65%)",-0.089658557,Product Usage
+45 - 54,"""absorb"" (19.65%)",-0.930561442,Product Usage
+55 - 65,"""absorb"" (19.65%)",-1.145741979,Product Usage
+16 - 24,"""absorbs quickly"" (17.97%)",0.153562795,Product Usage
+25 - 34,"""absorbs quickly"" (17.97%)",0.535836134,Product Usage
+35 - 44,"""absorbs quickly"" (17.97%)",0.682864342,Product Usage
+45 - 54,"""absorbs quickly"" (17.97%)",-0.810288789,Product Usage
+55 - 65,"""absorbs quickly"" (17.97%)",-0.957316996,Product Usage
+16 - 24,"""acid"" (18.20%)",1.418805309,Product Ingredients
+25 - 34,"""acid"" (18.20%)",0.916723112,Product Ingredients
+35 - 44,"""acid"" (18.20%)",-0.287145886,Product Ingredients
+45 - 54,"""acid"" (18.20%)",-0.828717693,Product Ingredients
+55 - 65,"""acid"" (18.20%)",-1.040833318,Product Ingredients
+16 - 24,"""acne treatment"" (2.32%)",0.276818897,Product Description
+25 - 34,"""acne treatment"" (2.32%)",0.315000814,Product Description
+35 - 44,"""acne treatment"" (2.32%)",0.381819168,Product Description
+45 - 54,"""acne treatment"" (2.32%)",-0.658638065,Product Description
+55 - 65,"""acne treatment"" (2.32%)",-0.448637522,Product Description
+16 - 24,"""acne"" (30.25%)",1.322736101,Product Description
+25 - 34,"""acne"" (30.25%)",0.916219496,Product Description
+35 - 44,"""acne"" (30.25%)",-0.153637532,Product Description
+45 - 54,"""acne"" (30.25%)",-0.961895519,Product Description
+55 - 65,"""acne"" (30.25%)",-1.00175823,Product Description
+16 - 24,"""active"" (3.55%)",1.453382148,Product Traits
+25 - 34,"""active"" (3.55%)",0.874762923,Product Traits
+35 - 44,"""active"" (3.55%)",-0.496610201,Product Traits
+45 - 54,"""active"" (3.55%)",-0.82009024,Product Traits
+55 - 65,"""active"" (3.55%)",-0.660628249,Product Traits
+16 - 24,"""added bonus"" (1.80%)",-0.208697676,Brand Loyalty
+25 - 34,"""added bonus"" (1.80%)",-0.075882015,Brand Loyalty
+35 - 44,"""added bonus"" (1.80%)",0.090137562,Brand Loyalty
+45 - 54,"""added bonus"" (1.80%)",0.167613365,Brand Loyalty
+55 - 65,"""added bonus"" (1.80%)",0.01266176,Brand Loyalty
+16 - 24,"""affordable"" (17.35%)",0.903562461,Product Reactions
+25 - 34,"""affordable"" (17.35%)",0.936577243,Product Reactions
+35 - 44,"""affordable"" (17.35%)",-0.371850705,Product Reactions
+45 - 54,"""affordable"" (17.35%)",-0.491746493,Product Reactions
+55 - 65,"""affordable"" (17.35%)",-0.875760539,Product Reactions
+16 - 24,"""age perfect"" (2.42%)",-0.411220496,Product Reactions
+25 - 34,"""age perfect"" (2.42%)",0.328976397,Product Reactions
+35 - 44,"""age perfect"" (2.42%)",0.612261628,Product Reactions
+45 - 54,"""age perfect"" (2.42%)",-0.657952794,Product Reactions
+55 - 65,"""age perfect"" (2.42%)",-0.191902898,Product Reactions
+16 - 24,"""age spots"" (3.58%)",-1.13533754,Skin Descriptions
+25 - 34,"""age spots"" (3.58%)",-0.617939193,Skin Descriptions
+35 - 44,"""age spots"" (3.58%)",0.520337169,Skin Descriptions
+45 - 54,"""age spots"" (3.58%)",0.68590464,Skin Descriptions
+55 - 65,"""age spots"" (3.58%)",0.768688375,Skin Descriptions
+16 - 24,"""aging skin"" (5.69%)",0.534246326,Skin Descriptions
+25 - 34,"""aging skin"" (5.69%)",0.507366007,Skin Descriptions
+35 - 44,"""aging skin"" (5.69%)",0.507366007,Skin Descriptions
+45 - 54,"""aging skin"" (5.69%)",-0.520806166,Skin Descriptions
+55 - 65,"""aging skin"" (5.69%)",-1.374256271,Skin Descriptions
+16 - 24,"""alcohol"" (5.43%)",0.66386342,Product Ingredients
+25 - 34,"""alcohol"" (5.43%)",0.561387858,Product Ingredients
+35 - 44,"""alcohol"" (5.43%)",0.294060307,Product Ingredients
+45 - 54,"""alcohol"" (5.43%)",-0.650497042,Product Ingredients
+55 - 65,"""alcohol"" (5.43%)",-1.064854747,Product Ingredients
+16 - 24,"""all in one"" (1.97%)",0.917047872,Product Description
+25 - 34,"""all in one"" (1.97%)",-0.366836858,Product Description
+35 - 44,"""all in one"" (1.97%)",-0.32256497,Product Description
+45 - 54,"""all in one"" (1.97%)",-0.167613365,Product Description
+55 - 65,"""all in one"" (1.97%)",0.208697676,Product Description
+16 - 24,"""all natural"" (3.49%)",0.078987351,Product Description
+25 - 34,"""all natural"" (3.49%)",0.191555583,Product Description
+35 - 44,"""all natural"" (3.49%)",-0.027656237,Product Description
+45 - 54,"""all natural"" (3.49%)",-0.584572754,Product Description
+55 - 65,"""all natural"" (3.49%)",-0.418682727,Product Description
+16 - 24,"""all skin types"" (3.64%)",0.77226442,Skin Descriptions
+25 - 34,"""all skin types"" (3.64%)",0.389489881,Skin Descriptions
+35 - 44,"""all skin types"" (3.64%)",0.456643309,Skin Descriptions
+45 - 54,"""all skin types"" (3.64%)",-0.684964963,Skin Descriptions
+55 - 65,"""all skin types"" (3.64%)",-1.13489293,Skin Descriptions
+16 - 24,"""aloe"" (4.11%)",0.48393548,Product Ingredients
+25 - 34,"""aloe"" (4.11%)",0.458272234,Product Ingredients
+35 - 44,"""aloe"" (4.11%)",0.282295696,Product Ingredients
+45 - 54,"""aloe"" (4.11%)",-0.663578195,Product Ingredients
+55 - 65,"""aloe"" (4.11%)",-0.674576729,Product Ingredients
+16 - 24,"""amazing"" (28.65%)",1.36564748,Product Reactions
+25 - 34,"""amazing"" (28.65%)",0.874403011,Product Reactions
+35 - 44,"""amazing"" (28.65%)",-0.117497905,Product Reactions
+45 - 54,"""amazing"" (28.65%)",-0.879260805,Product Reactions
+55 - 65,"""amazing"" (28.65%)",-1.154333419,Product Reactions
+16 - 24,"""american"" (1.51%)",-0.740810367,Product Origin
+25 - 34,"""american"" (1.51%)",-0.294812289,Product Origin
+35 - 44,"""american"" (1.51%)",-0.249456552,Product Origin
+45 - 54,"""american"" (1.51%)",0.778606814,Product Origin
+55 - 65,"""american"" (1.51%)",0.498913104,Product Origin
+16 - 24,"""animals"" (2.21%)",-0.600389288,Social Responsibility
+25 - 34,"""animals"" (2.21%)",-0.13540101,Social Responsibility
+35 - 44,"""animals"" (2.21%)",0.052382718,Social Responsibility
+45 - 54,"""animals"" (2.21%)",0.298289981,Social Responsibility
+55 - 65,"""animals"" (2.21%)",0.669386395,Social Responsibility
+16 - 24,"""artificial"" (2.42%)",0.859593566,Product Description
+25 - 34,"""artificial"" (2.42%)",0.754765082,Product Description
+35 - 44,"""artificial"" (2.42%)",-0.115311332,Product Description
+45 - 54,"""artificial"" (2.42%)",-0.419313935,Product Description
+55 - 65,"""artificial"" (2.42%)",-1.111181927,Product Description
+16 - 24,"""basic"" (4.37%)",0.737465468,Product Traits
+25 - 34,"""basic"" (4.37%)",0.151780515,Product Traits
+35 - 44,"""basic"" (4.37%)",0.234709358,Product Traits
+45 - 54,"""basic"" (4.37%)",-0.428721386,Product Traits
+55 - 65,"""basic"" (4.37%)",-1.48088108,Product Traits
+16 - 24,"""beautiful"" (16.05%)",-0.917831822,Product Reactions
+25 - 34,"""beautiful"" (16.05%)",-0.226203233,Product Reactions
+35 - 44,"""beautiful"" (16.05%)",0.380802565,Product Reactions
+45 - 54,"""beautiful"" (16.05%)",0.538656619,Product Reactions
+55 - 65,"""beautiful"" (16.05%)",-0.214811703,Product Reactions
+16 - 24,"""bleach"" (0.08%)",0.165087465,Product Ingredients
+25 - 34,"""bleach"" (0.08%)",-0.349263049,Product Ingredients
+35 - 44,"""bleach"" (0.08%)",0,Product Ingredients
+45 - 54,"""bleach"" (0.08%)",0,Product Ingredients
+55 - 65,"""bleach"" (0.08%)",0,Product Ingredients
+16 - 24,"""bonus"" (6.53%)",0.234505537,Brand Loyalty
+25 - 34,"""bonus"" (6.53%)",0.726210695,Brand Loyalty
+35 - 44,"""bonus"" (6.53%)",0.548440369,Brand Loyalty
+45 - 54,"""bonus"" (6.53%)",-0.544658022,Brand Loyalty
+55 - 65,"""bonus"" (6.53%)",-1.444856696,Brand Loyalty
+16 - 24,"""cakey"" (6.38%)",1.30773065,Product Performance
+25 - 34,"""cakey"" (6.38%)",0.852729475,Product Performance
+35 - 44,"""cakey"" (6.38%)",-0.127273056,Product Performance
+45 - 54,"""cakey"" (6.38%)",-0.840002169,Product Performance
+55 - 65,"""cakey"" (6.38%)",-1.123184719,Product Performance
+16 - 24,"""calming"" (10.19%)",0.530261128,Product Effects
+25 - 34,"""calming"" (10.19%)",0.870359645,Product Effects
+35 - 44,"""calming"" (10.19%)",0.058511573,Product Effects
+45 - 54,"""calming"" (10.19%)",-0.416894956,Product Effects
+55 - 65,"""calming"" (10.19%)",-1.239713948,Product Effects
+16 - 24,"""ceramides"" (6.23%)",1.008755494,Product Ingredients
+25 - 34,"""ceramides"" (6.23%)",0.66781126,Product Ingredients
+35 - 44,"""ceramides"" (6.23%)",-0.158031441,Product Ingredients
+45 - 54,"""ceramides"" (6.23%)",-0.968721065,Product Ingredients
+55 - 65,"""ceramides"" (6.23%)",-1.233899914,Product Ingredients
+16 - 24,"""chalky"" (4.00%)",0.921973884,Product Performance
+25 - 34,"""chalky"" (4.00%)",0.628618557,Product Performance
+35 - 44,"""chalky"" (4.00%)",-0.460986942,Product Performance
+45 - 54,"""chalky"" (4.00%)",-0.149671085,Product Performance
+55 - 65,"""chalky"" (4.00%)",-0.778289642,Product Performance
+16 - 24,"""chapped"" (12.01%)",0.279316794,Skin Descriptions
+25 - 34,"""chapped"" (12.01%)",0.686891301,Skin Descriptions
+35 - 44,"""chapped"" (12.01%)",0.413274849,Skin Descriptions
+45 - 54,"""chapped"" (12.01%)",-0.686891301,Skin Descriptions
+55 - 65,"""chapped"" (12.01%)",-0.986159295,Skin Descriptions
+16 - 24,"""charcoal"" (2.22%)",0.684388119,Product Ingredients
+25 - 34,"""charcoal"" (2.22%)",0.699942394,Product Ingredients
+35 - 44,"""charcoal"" (2.22%)",-0.497736813,Product Ingredients
+45 - 54,"""charcoal"" (2.22%)",-0.979919352,Product Ingredients
+55 - 65,"""charcoal"" (2.22%)",-0.933256525,Product Ingredients
+16 - 24,"""cheap"" (13.66%)",1.296210038,Product Reactions
+25 - 34,"""cheap"" (13.66%)",0.822929175,Product Reactions
+35 - 44,"""cheap"" (13.66%)",-0.096587931,Product Reactions
+45 - 54,"""cheap"" (13.66%)",-0.784294002,Product Reactions
+55 - 65,"""cheap"" (13.66%)",-1.199622107,Product Reactions
+16 - 24,"""chemicals"" (10.10%)",1.176964699,Product Ingredients
+25 - 34,"""chemicals"" (10.10%)",0.516053752,Product Ingredients
+35 - 44,"""chemicals"" (10.10%)",0.165227737,Product Ingredients
+45 - 54,"""chemicals"" (10.10%)",-0.642803797,Product Ingredients
+55 - 65,"""chemicals"" (10.10%)",-1.312768318,Product Ingredients
+16 - 24,"""chronic"" (2.15%)",-0.260667485,Skin Descriptions
+25 - 34,"""chronic"" (2.15%)",0.379685403,Skin Descriptions
+35 - 44,"""chronic"" (2.15%)",0.024421129,Skin Descriptions
+45 - 54,"""chronic"" (2.15%)",0.002491236,Skin Descriptions
+55 - 65,"""chronic"" (2.15%)",-0.488738377,Skin Descriptions
+16 - 24,"""citrus"" (2.31%)",0.443622866,Product Ingredients
+25 - 34,"""citrus"" (2.31%)",-0.066060646,Product Ingredients
+35 - 44,"""citrus"" (2.31%)",0.457780741,Product Ingredients
+45 - 54,"""citrus"" (2.31%)",0.00472873,Product Ingredients
+55 - 65,"""citrus"" (2.31%)",-1.085427671,Product Ingredients
+16 - 24,"""clay"" (3.65%)",0.892381133,Product Ingredients
+25 - 34,"""clay"" (3.65%)",0.484989746,Product Ingredients
+35 - 44,"""clay"" (3.65%)",-0.004849897,Product Ingredients
+45 - 54,"""clay"" (3.65%)",-0.994228979,Product Ingredients
+55 - 65,"""clay"" (3.65%)",-1.047577851,Product Ingredients
+16 - 24,"""clean"" (32.67%)",1.246432838,Product Description
+25 - 34,"""clean"" (32.67%)",0.904777238,Product Description
+35 - 44,"""clean"" (32.67%)",-0.103716878,Product Description
+45 - 54,"""clean"" (32.67%)",-0.731509042,Product Description
+55 - 65,"""clean"" (32.67%)",-1.30378217,Product Description
+16 - 24,"""cleaner"" (10.79%)",1.10095579,Product Description
+25 - 34,"""cleaner"" (10.79%)",0.513172781,Product Description
+35 - 44,"""cleaner"" (10.79%)",0.158319262,Product Description
+45 - 54,"""cleaner"" (10.79%)",-0.884404155,Product Description
+55 - 65,"""cleaner"" (10.79%)",-0.87894487,Product Description
+16 - 24,"""cleanser"" (15.66%)",1.216383783,Product Description
+25 - 34,"""cleanser"" (15.66%)",0.904462638,Product Description
+35 - 44,"""cleanser"" (15.66%)",0.023475598,Product Description
+45 - 54,"""cleanser"" (15.66%)",-0.817515977,Product Description
+55 - 65,"""cleanser"" (15.66%)",-1.374626705,Product Description
+16 - 24,"""climate"" (7.47%)",-0.520217695,Social Responsibility
+25 - 34,"""climate"" (7.47%)",-0.245658356,Social Responsibility
+35 - 44,"""climate"" (7.47%)",0.166180653,Social Responsibility
+45 - 54,"""climate"" (7.47%)",0.419064254,Social Responsibility
+55 - 65,"""climate"" (7.47%)",0.048168305,Social Responsibility
+16 - 24,"""coconut"" (7.56%)",1.009209764,Product Ingredients
+25 - 34,"""coconut"" (7.56%)",0.925803998,Product Ingredients
+35 - 44,"""coconut"" (7.56%)",0.162641243,Product Ingredients
+45 - 54,"""coconut"" (7.56%)",-0.925803998,Product Ingredients
+55 - 65,"""coconut"" (7.56%)",-1.276108214,Product Ingredients
+16 - 24,"""collagen"" (2.73%)",0.990104538,Product Ingredients
+25 - 34,"""collagen"" (2.73%)",0.600403459,Product Ingredients
+35 - 44,"""collagen"" (2.73%)",-0.181996399,Product Ingredients
+45 - 54,"""collagen"" (2.73%)",-0.92842385,Product Ingredients
+55 - 65,"""collagen"" (2.73%)",-1.036341072,Product Ingredients
+16 - 24,"""cooling"" (4.95%)",1.289427014,Product Effects
+25 - 34,"""cooling"" (4.95%)",0.863634916,Product Effects
+35 - 44,"""cooling"" (4.95%)",-0.060253599,Product Effects
+45 - 54,"""cooling"" (4.95%)",-0.783296784,Product Effects
+55 - 65,"""cooling"" (4.95%)",-1.281393201,Product Effects
+16 - 24,"""crazy"" (9.28%)",1.113895642,Product Reactions
+25 - 34,"""crazy"" (9.28%)",0.88941591,Product Reactions
+35 - 44,"""crazy"" (9.28%)",-0.443857653,Product Reactions
+45 - 54,"""crazy"" (9.28%)",-0.515283022,Product Reactions
+55 - 65,"""crazy"" (9.28%)",-0.845200205,Product Reactions
+16 - 24,"""cream"" (25.33%)",0.822628327,Product Description
+25 - 34,"""cream"" (25.33%)",0.948360434,Product Description
+35 - 44,"""cream"" (25.33%)",0.242707574,Product Description
+45 - 54,"""cream"" (25.33%)",-0.822132669,Product Description
+55 - 65,"""cream"" (25.33%)",-1.403209959,Product Description
+16 - 24,"""cucumber"" (2.07%)",1.115574759,Product Ingredients
+25 - 34,"""cucumber"" (2.07%)",0.854482794,Product Ingredients
+35 - 44,"""cucumber"" (2.07%)",-0.514272052,Product Ingredients
+45 - 54,"""cucumber"" (2.07%)",-0.443065152,Product Ingredients
+55 - 65,"""cucumber"" (2.07%)",-0.783275894,Product Ingredients
+16 - 24,"""cystic acne"" (7.18%)",1.355081009,Skin Descriptions
+25 - 34,"""cystic acne"" (7.18%)",0.768658021,Skin Descriptions
+35 - 44,"""cystic acne"" (7.18%)",-0.280361588,Skin Descriptions
+45 - 54,"""cystic acne"" (7.18%)",-0.693894931,Skin Descriptions
+55 - 65,"""cystic acne"" (7.18%)",-0.999956331,Skin Descriptions
+16 - 24,"""dark circles"" (16.10%)",1.326440762,Skin Descriptions
+25 - 34,"""dark circles"" (16.10%)",0.787331797,Skin Descriptions
+35 - 44,"""dark circles"" (16.10%)",0.005171309,Skin Descriptions
+45 - 54,"""dark circles"" (16.10%)",-0.797674415,Skin Descriptions
+55 - 65,"""dark circles"" (16.10%)",-1.321269453,Skin Descriptions
+16 - 24,"""dark spots"" (13.35%)",1.00767576,Skin Descriptions
+25 - 34,"""dark spots"" (13.35%)",0.604998312,Skin Descriptions
+35 - 44,"""dark spots"" (13.35%)",-0.155178138,Skin Descriptions
+45 - 54,"""dark spots"" (13.35%)",-0.408570289,Skin Descriptions
+55 - 65,"""dark spots"" (13.35%)",-0.972318716,Skin Descriptions
+16 - 24,"""day and night"" (6.76%)",0.578961192,Product Usage
+25 - 34,"""day and night"" (6.76%)",0.82631139,Product Usage
+35 - 44,"""day and night"" (6.76%)",0.104476918,Product Usage
+45 - 54,"""day and night"" (6.76%)",-1.150111826,Product Usage
+55 - 65,"""day and night"" (6.76%)",-1.423624064,Product Usage
+16 - 24,"""daytime"" (6.43%)",0.463815741,Product Usage
+25 - 34,"""daytime"" (6.43%)",0.56607433,Product Usage
+35 - 44,"""daytime"" (6.43%)",0.368861337,Product Usage
+45 - 54,"""daytime"" (6.43%)",-0.989717054,Product Usage
+55 - 65,"""daytime"" (6.43%)",-0.500336666,Product Usage
+16 - 24,"""dermatologist recommended"" (23.79%)",-1.397522123,Product Recommendation
+25 - 34,"""dermatologist recommended"" (23.79%)",-0.745199443,Product Recommendation
+35 - 44,"""dermatologist recommended"" (23.79%)",0.375877725,Product Recommendation
+45 - 54,"""dermatologist recommended"" (23.79%)",0.810759511,Product Recommendation
+55 - 65,"""dermatologist recommended"" (23.79%)",0.626098652,Product Recommendation
+16 - 24,"""diminish"" (1.83%)",0.494717862,Product Effects
+25 - 34,"""diminish"" (1.83%)",1.015473506,Product Effects
+35 - 44,"""diminish"" (1.83%)",0.091132238,Product Effects
+45 - 54,"""diminish"" (1.83%)",-0.598868991,Product Effects
+55 - 65,"""diminish"" (1.83%)",-1.223775763,Product Effects
+16 - 24,"""disappear"" (6.33%)",0.679909513,Product Effects
+25 - 34,"""disappear"" (6.33%)",0.968939873,Product Effects
+35 - 44,"""disappear"" (6.33%)",-0.107354134,Product Effects
+45 - 54,"""disappear"" (6.33%)",-0.495480617,Product Effects
+55 - 65,"""disappear"" (6.33%)",-1.125842069,Product Effects
+16 - 24,"""doctor recommended"" (3.84%)",-0.207058798,Product Recommendation
+25 - 34,"""doctor recommended"" (3.84%)",0.226778684,Product Recommendation
+35 - 44,"""doctor recommended"" (3.84%)",-0.289224988,Product Recommendation
+45 - 54,"""doctor recommended"" (3.84%)",-0.345097997,Product Recommendation
+55 - 65,"""doctor recommended"" (3.84%)",0.831521841,Product Recommendation
+16 - 24,"""does wonders"" (2.36%)",0.22627417,Product Performance
+25 - 34,"""does wonders"" (2.36%)",0.028284271,Product Performance
+35 - 44,"""does wonders"" (2.36%)",0.38890873,Product Performance
+45 - 54,"""does wonders"" (2.36%)",-0.084852814,Product Performance
+55 - 65,"""does wonders"" (2.36%)",-0.820243866,Product Performance
+16 - 24,"""doesn't burn"" (2.55%)",1.240157146,Product Performance
+25 - 34,"""doesn't burn"" (2.55%)",0.014364564,Product Performance
+35 - 44,"""doesn't burn"" (2.55%)",-0.601611607,Product Performance
+45 - 54,"""doesn't burn"" (2.55%)",-0.416818756,Product Performance
+55 - 65,"""doesn't burn"" (2.55%)",-0.312102807,Product Performance
+16 - 24,"""doesn't dry out"" (3.58%)",0.600596007,Product Performance
+25 - 34,"""doesn't dry out"" (3.58%)",0.761318882,Product Performance
+35 - 44,"""doesn't dry out"" (3.58%)",0.008459099,Product Performance
+45 - 54,"""doesn't dry out"" (3.58%)",-0.38911854,Product Performance
+55 - 65,"""doesn't dry out"" (3.58%)",-1.091223731,Product Performance
+16 - 24,"""doesn't irritate"" (6.46%)",1.3768857,Product Performance
+25 - 34,"""doesn't irritate"" (6.46%)",0.607348078,Product Performance
+35 - 44,"""doesn't irritate"" (6.46%)",-0.227755529,Product Performance
+45 - 54,"""doesn't irritate"" (6.46%)",-0.538331251,Product Performance
+55 - 65,"""doesn't irritate"" (6.46%)",-1.066309978,Product Performance
+16 - 24,"""double cleanse"" (2.60%)",0.948137474,Product Usage
+25 - 34,"""double cleanse"" (2.60%)",0.564511014,Product Usage
+35 - 44,"""double cleanse"" (2.60%)",-0.670579052,Product Usage
+45 - 54,"""double cleanse"" (2.60%)",-0.782859967,Product Usage
+55 - 65,"""double cleanse"" (2.60%)",-0.810930196,Product Usage
+16 - 24,"""dramatically"" (1.72%)",0.842743086,Product Effects
+25 - 34,"""dramatically"" (1.72%)",-0.042144233,Product Effects
+35 - 44,"""dramatically"" (1.72%)",0.105336987,Product Effects
+45 - 54,"""dramatically"" (1.72%)",-0.360703668,Product Effects
+55 - 65,"""dramatically"" (1.72%)",-0.927031553,Product Effects
+16 - 24,"""dries"" (21.37%)",1.309478385,Product Effects
+25 - 34,"""dries"" (21.37%)",0.787217466,Product Effects
+35 - 44,"""dries"" (21.37%)",-0.026782611,Product Effects
+45 - 54,"""dries"" (21.37%)",-0.821652252,Product Effects
+55 - 65,"""dries"" (21.37%)",-1.219565333,Product Effects
+16 - 24,"""dry and sensitive skin"" (4.35%)",0.478498645,Skin Descriptions
+25 - 34,"""dry and sensitive skin"" (4.35%)",0.632853046,Skin Descriptions
+35 - 44,"""dry and sensitive skin"" (4.35%)",-0.185225282,Skin Descriptions
+45 - 54,"""dry and sensitive skin"" (4.35%)",-0.653433633,Skin Descriptions
+55 - 65,"""dry and sensitive skin"" (4.35%)",-0.077177201,Skin Descriptions
+16 - 24,"""dry spots"" (3.58%)",-0.028128434,Skin Descriptions
+25 - 34,"""dry spots"" (3.58%)",0.651642051,Skin Descriptions
+35 - 44,"""dry spots"" (3.58%)",-0.154706386,Skin Descriptions
+45 - 54,"""dry spots"" (3.58%)",-0.201587109,Skin Descriptions
+55 - 65,"""dry spots"" (3.58%)",-0.346917351,Skin Descriptions
+16 - 24,"""easy to apply"" (19.90%)",-1.013271173,Product Usage
+25 - 34,"""easy to apply"" (19.90%)",-0.521270177,Product Usage
+35 - 44,"""easy to apply"" (19.90%)",-0.234153448,Product Usage
+45 - 54,"""easy to apply"" (19.90%)",0.649497065,Product Usage
+55 - 65,"""easy to apply"" (19.90%)",1.278087573,Product Usage
+16 - 24,"""easy to spread"" (8.02%)",0.117058309,Product Usage
+25 - 34,"""easy to spread"" (8.02%)",0.520707649,Product Usage
+35 - 44,"""easy to spread"" (8.02%)",0.552999597,Product Usage
+45 - 54,"""easy to spread"" (8.02%)",-0.633729465,Product Usage
+55 - 65,"""easy to spread"" (8.02%)",-0.916284003,Product Usage
+16 - 24,"""easy to use"" (20.11%)",-1.227374103,Product Usage
+25 - 34,"""easy to use"" (20.11%)",-0.689305456,Product Usage
+35 - 44,"""easy to use"" (20.11%)",-0.100317883,Product Usage
+45 - 54,"""easy to use"" (20.11%)",0.783543467,Product Usage
+55 - 65,"""easy to use"" (20.11%)",1.250173622,Product Usage
+16 - 24,"""eczema"" (18.17%)",0.507879884,Skin Descriptions
+25 - 34,"""eczema"" (18.17%)",0.467159002,Skin Descriptions
+35 - 44,"""eczema"" (18.17%)",0.011311356,Skin Descriptions
+45 - 54,"""eczema"" (18.17%)",-0.869843275,Skin Descriptions
+55 - 65,"""eczema"" (18.17%)",0.005655678,Skin Descriptions
+16 - 24,"""eliminate"" (2.35%)",-0.037061946,Product Effects
+25 - 34,"""eliminate"" (2.35%)",0.633253293,Product Effects
+35 - 44,"""eliminate"" (2.35%)",-0.491146462,Product Effects
+45 - 54,"""eliminate"" (2.35%)",-0.296538812,Product Effects
+55 - 65,"""eliminate"" (2.35%)",-0.037061946,Product Effects
+16 - 24,"""enjoy"" (11.59%)",0.193258126,Product Reactions
+25 - 34,"""enjoy"" (11.59%)",0.195942266,Product Reactions
+35 - 44,"""enjoy"" (11.59%)",-0.370411408,Product Reactions
+45 - 54,"""enjoy"" (11.59%)",0.276466485,Product Reactions
+55 - 65,"""enjoy"" (11.59%)",-0.150311876,Product Reactions
+16 - 24,"""environment"" (1.89%)",0.515805719,Social Responsibility
+25 - 34,"""environment"" (1.89%)",-0.22939626,Social Responsibility
+35 - 44,"""environment"" (1.89%)",0.211427446,Social Responsibility
+45 - 54,"""environment"" (1.89%)",0.085477816,Social Responsibility
+55 - 65,"""environment"" (1.89%)",-0.869640213,Social Responsibility
+16 - 24,"""essential"" (5.35%)",0.126491106,Product Reactions
+25 - 34,"""essential"" (5.35%)",0.758946638,Product Reactions
+35 - 44,"""essential"" (5.35%)",0.383426166,Product Reactions
+45 - 54,"""essential"" (5.35%)",-0.664078309,Product Reactions
+55 - 65,"""essential"" (5.35%)",-0.964494686,Product Reactions
+16 - 24,"""esthetician"" (1.80%)",0.226778684,Product Recommendation
+25 - 34,"""esthetician"" (1.80%)",0.604743157,Product Recommendation
+35 - 44,"""esthetician"" (1.80%)",-0.10394023,Product Recommendation
+45 - 54,"""esthetician"" (1.80%)",-0.614192269,Product Recommendation
+55 - 65,"""esthetician"" (1.80%)",-0.529150262,Product Recommendation
+16 - 24,"""excellent"" (30.00%)",-1.251488233,Product Reactions
+25 - 34,"""excellent"" (30.00%)",-0.825515414,Product Reactions
+35 - 44,"""excellent"" (30.00%)",-0.038787211,Product Reactions
+45 - 54,"""excellent"" (30.00%)",0.91887932,Product Reactions
+55 - 65,"""excellent"" (30.00%)",1.202060283,Product Reactions
+16 - 24,"""excited"" (10.37%)",1.585238843,Product Reactions
+25 - 34,"""excited"" (10.37%)",0.518984323,Product Reactions
+35 - 44,"""excited"" (10.37%)",-0.304995526,Product Reactions
+45 - 54,"""excited"" (10.37%)",-0.720674913,Product Reactions
+55 - 65,"""excited"" (10.37%)",-0.780936125,Product Reactions
+16 - 24,"""exfoliate"" (10.97%)",1.121678279,Product Effects
+25 - 34,"""exfoliate"" (10.97%)",0.762563889,Product Effects
+35 - 44,"""exfoliate"" (10.97%)",-0.019950799,Product Effects
+45 - 54,"""exfoliate"" (10.97%)",-0.975372417,Product Effects
+55 - 65,"""exfoliate"" (10.97%)",-0.7669974,Product Effects
+16 - 24,"""extra"" (21.66%)",0.817778724,Brand Loyalty
+25 - 34,"""extra"" (21.66%)",0.677485307,Brand Loyalty
+35 - 44,"""extra"" (21.66%)",0.402893917,Brand Loyalty
+45 - 54,"""extra"" (21.66%)",-0.89811769,Brand Loyalty
+55 - 65,"""extra"" (21.66%)",-1.206283573,Brand Loyalty
+16 - 24,"""extreme"" (3.11%)",0.810452279,Product Reactions
+25 - 34,"""extreme"" (3.11%)",0.124229911,Product Reactions
+35 - 44,"""extreme"" (3.11%)",-0.461425385,Product Reactions
+45 - 54,"""extreme"" (3.11%)",0.325364053,Product Reactions
+55 - 65,"""extreme"" (3.11%)",-0.632980977,Product Reactions
+16 - 24,"""facewash"" (3.04%)",-0.070478733,Product Description
+25 - 34,"""facewash"" (3.04%)",-0.290085506,Product Description
+35 - 44,"""facewash"" (3.04%)",-0.141174064,Product Description
+45 - 54,"""facewash"" (3.04%)",0.934297465,Product Description
+55 - 65,"""facewash"" (3.04%)",0.116036609,Product Description
+16 - 24,"""facial cleanser"" (14.38%)",1.422380034,Product Description
+25 - 34,"""facial cleanser"" (14.38%)",0.481899246,Product Description
+35 - 44,"""facial cleanser"" (14.38%)",-0.32385702,Product Description
+45 - 54,"""facial cleanser"" (14.38%)",-0.367901575,Product Description
+55 - 65,"""facial cleanser"" (14.38%)",-1.023388185,Product Description
+16 - 24,"""facial cream"" (1.69%)",0.971836749,Product Description
+25 - 34,"""facial cream"" (1.69%)",0.681718309,Product Description
+35 - 44,"""facial cream"" (1.69%)",-0.373712567,Product Description
+45 - 54,"""facial cream"" (1.69%)",-0.708849385,Product Description
+55 - 65,"""facial cream"" (1.69%)",-0.928939236,Product Description
+16 - 24,"""facial lotion"" (2.14%)",0.789332856,Product Description
+25 - 34,"""facial lotion"" (2.14%)",-0.155047525,Product Description
+35 - 44,"""facial lotion"" (2.14%)",0.119809451,Product Description
+45 - 54,"""facial lotion"" (2.14%)",-0.169142755,Product Description
+55 - 65,"""facial lotion"" (2.14%)",-0.817523315,Product Description
+16 - 24,"""facial moisturizer"" (6.39%)",1.012703403,Product Description
+25 - 34,"""facial moisturizer"" (6.39%)",0.50901671,Product Description
+35 - 44,"""facial moisturizer"" (6.39%)",-0.163898051,Product Description
+45 - 54,"""facial moisturizer"" (6.39%)",-0.890112991,Product Description
+55 - 65,"""facial moisturizer"" (6.39%)",-0.932753134,Product Description
+16 - 24,"""fan"" (23.26%)",0.662665589,Product Reactions
+25 - 34,"""fan"" (23.26%)",0.875088008,Product Reactions
+35 - 44,"""fan"" (23.26%)",0.218194767,Product Reactions
+45 - 54,"""fan"" (23.26%)",-0.745787405,Product Reactions
+55 - 65,"""fan"" (23.26%)",-1.198339515,Product Reactions
+16 - 24,"""fancy"" (2.53%)",1.306615102,Product Reactions
+25 - 34,"""fancy"" (2.53%)",0.363687266,Product Reactions
+35 - 44,"""fancy"" (2.53%)",-0.50066325,Product Reactions
+45 - 54,"""fancy"" (2.53%)",-0.602813765,Product Reactions
+55 - 65,"""fancy"" (2.53%)",-0.547809642,Product Reactions
+16 - 24,"""fantastic"" (15.23%)",0.256241898,Product Reactions
+25 - 34,"""fantastic"" (15.23%)",0.101999202,Product Reactions
+35 - 44,"""fantastic"" (15.23%)",0.644336423,Product Reactions
+45 - 54,"""fantastic"" (15.23%)",-0.15175491,Product Reactions
+55 - 65,"""fantastic"" (15.23%)",-1.276233919,Product Reactions
+16 - 24,"""favorite"" (37.92%)",0.548165577,Product Reactions
+25 - 34,"""favorite"" (37.92%)",0.640503628,Product Reactions
+35 - 44,"""favorite"" (37.92%)",0.255028905,Product Reactions
+45 - 54,"""favorite"" (37.92%)",-0.288739622,Product Reactions
+55 - 65,"""favorite"" (37.92%)",-1.468614727,Product Reactions
+16 - 24,"""fine lines"" (17.22%)",1.058257013,Skin Descriptions
+25 - 34,"""fine lines"" (17.22%)",0.958525985,Skin Descriptions
+35 - 44,"""fine lines"" (17.22%)",0.006925766,Skin Descriptions
+45 - 54,"""fine lines"" (17.22%)",-0.991769661,Skin Descriptions
+55 - 65,"""fine lines"" (17.22%)",-1.030553949,Skin Descriptions
+16 - 24,"""firming"" (3.31%)",0.492331634,Product Effects
+25 - 34,"""firming"" (3.31%)",0.044183608,Product Effects
+35 - 44,"""firming"" (3.31%)",-0.012623888,Product Effects
+45 - 54,"""firming"" (3.31%)",-0.195670265,Product Effects
+55 - 65,"""firming"" (3.31%)",-0.315597202,Product Effects
+16 - 24,"""flawless"" (3.44%)",1.204240872,Product Traits
+25 - 34,"""flawless"" (3.44%)",0.798159648,Product Traits
+35 - 44,"""flawless"" (3.44%)",-0.105021006,Product Traits
+45 - 54,"""flawless"" (3.44%)",-0.742148445,Product Traits
+55 - 65,"""flawless"" (3.44%)",-1.120224067,Product Traits
+16 - 24,"""foam"" (17.86%)",1.076233669,Product Description
+25 - 34,"""foam"" (17.86%)",1.00888965,Product Description
+35 - 44,"""foam"" (17.86%)",0.006353209,Product Description
+45 - 54,"""foam"" (17.86%)",-0.973311677,Product Description
+55 - 65,"""foam"" (17.86%)",-1.139765763,Product Description
+16 - 24,"""formula"" (18.00%)",1.028408294,Product Description
+25 - 34,"""formula"" (18.00%)",0.859955477,Product Description
+35 - 44,"""formula"" (18.00%)",0.203835601,Product Description
+45 - 54,"""formula"" (18.00%)",-0.770729327,Product Description
+55 - 65,"""formula"" (18.00%)",-1.500691534,Product Description
+16 - 24,"""freckles"" (2.02%)",1.140067673,Skin Descriptions
+25 - 34,"""freckles"" (2.02%)",0.981449562,Skin Descriptions
+35 - 44,"""freckles"" (2.02%)",-0.25775443,Skin Descriptions
+45 - 54,"""freckles"" (2.02%)",-0.783176923,Skin Descriptions
+55 - 65,"""freckles"" (2.02%)",-0.961622298,Skin Descriptions
+16 - 24,"""fresh"" (12.16%)",-0.957157647,Product Description
+25 - 34,"""fresh"" (12.16%)",-0.033981928,Product Description
+35 - 44,"""fresh"" (12.16%)",0.772144927,Product Description
+45 - 54,"""fresh"" (12.16%)",0.313388894,Product Description
+55 - 65,"""fresh"" (12.16%)",-0.760817617,Product Description
+16 - 24,"""friend recommended"" (1.72%)",-0.174565506,Product Recommendation
+25 - 34,"""friend recommended"" (1.72%)",-0.248301841,Product Recommendation
+35 - 44,"""friend recommended"" (1.72%)",-0.132430458,Product Recommendation
+45 - 54,"""friend recommended"" (1.72%)",0.626000417,Product Recommendation
+55 - 65,"""friend recommended"" (1.72%)",0.457460222,Product Recommendation
+16 - 24,"""fun"" (2.66%)",0.521771861,Product Reactions
+25 - 34,"""fun"" (2.66%)",0.186273966,Product Reactions
+35 - 44,"""fun"" (2.66%)",-0.135388965,Product Reactions
+45 - 54,"""fun"" (2.66%)",0.130934107,Product Reactions
+55 - 65,"""fun"" (2.66%)",-0.58502532,Product Reactions
+16 - 24,"""future"" (5.71%)",0.901196258,Product Reactions
+25 - 34,"""future"" (5.71%)",0.128742323,Product Reactions
+35 - 44,"""future"" (5.71%)",0.072953983,Product Reactions
+45 - 54,"""future"" (5.71%)",-0.128742323,Product Reactions
+55 - 65,"""future"" (5.71%)",-1.038521403,Product Reactions
+16 - 24,"""game changer"" (4.61%)",0.830630791,Product Reactions
+25 - 34,"""game changer"" (4.61%)",0.519142051,Product Reactions
+35 - 44,"""game changer"" (4.61%)",-0.288096374,Product Reactions
+45 - 54,"""game changer"" (4.61%)",-1.481405351,Product Reactions
+55 - 65,"""game changer"" (4.61%)",-1.608633146,Product Reactions
+16 - 24,"""gel"" (24.82%)",1.131874928,Product Description
+25 - 34,"""gel"" (24.82%)",0.864135743,Product Description
+35 - 44,"""gel"" (24.82%)",0.115067684,Product Description
+45 - 54,"""gel"" (24.82%)",-0.873160659,Product Description
+55 - 65,"""gel"" (24.82%)",-1.310869103,Product Description
+16 - 24,"""gentle"" (31.76%)",0.600429241,Product Usage
+25 - 34,"""gentle"" (31.76%)",0.740284037,Product Usage
+35 - 44,"""gentle"" (31.76%)",0.288121912,Product Usage
+45 - 54,"""gentle"" (31.76%)",-0.517357594,Product Usage
+55 - 65,"""gentle"" (31.76%)",-1.38908411,Product Usage
+16 - 24,"""gift"" (28.82%)",-1.090622926,Brand Loyalty
+25 - 34,"""gift"" (28.82%)",-0.81242276,Brand Loyalty
+35 - 44,"""gift"" (28.82%)",-0.132088004,Brand Loyalty
+45 - 54,"""gift"" (28.82%)",0.700229492,Brand Loyalty
+55 - 65,"""gift"" (28.82%)",1.462426196,Brand Loyalty
+16 - 24,"""glitter"" (2.83%)",0.416666667,Product Reactions
+25 - 34,"""glitter"" (2.83%)",-0.333333333,Product Reactions
+35 - 44,"""glitter"" (2.83%)",0,Product Reactions
+45 - 54,"""glitter"" (2.83%)",0,Product Reactions
+55 - 65,"""glitter"" (2.83%)",0,Product Reactions
+16 - 24,"""glow"" (33.27%)",1.098887181,Product Reactions
+25 - 34,"""glow"" (33.27%)",0.990316817,Product Reactions
+35 - 44,"""glow"" (33.27%)",-0.073672747,Product Reactions
+45 - 54,"""glow"" (33.27%)",-0.751462017,Product Reactions
+55 - 65,"""glow"" (33.27%)",-1.28966082,Product Reactions
+16 - 24,"""glycolic acid"" (2.51%)",0.775730779,Product Ingredients
+25 - 34,"""glycolic acid"" (2.51%)",-0.12579418,Product Ingredients
+35 - 44,"""glycolic acid"" (2.51%)",0,Product Ingredients
+45 - 54,"""glycolic acid"" (2.51%)",0,Product Ingredients
+55 - 65,"""glycolic acid"" (2.51%)",0,Product Ingredients
+16 - 24,"""godsend"" (1.72%)",-0.092085079,Product Reactions
+25 - 34,"""godsend"" (1.72%)",0.455656819,Product Reactions
+35 - 44,"""godsend"" (1.72%)",0.407326651,Product Reactions
+45 - 54,"""godsend"" (1.72%)",-0.817037591,Product Reactions
+55 - 65,"""godsend"" (1.72%)",-0.994248205,Product Reactions
+16 - 24,"""goes on easy"" (2.57%)",0.12409123,Product Performance
+25 - 34,"""goes on easy"" (2.57%)",-0.572728752,Product Performance
+35 - 44,"""goes on easy"" (2.57%)",0.343637251,Product Performance
+45 - 54,"""goes on easy"" (2.57%)",0.076363834,Product Performance
+55 - 65,"""goes on easy"" (2.57%)",-0.066818354,Product Performance
+16 - 24,"""goes on light"" (1.67%)",-0.718184846,Product Performance
+25 - 34,"""goes on light"" (1.67%)",0.051298918,Product Performance
+35 - 44,"""goes on light"" (1.67%)",0.410391341,Product Performance
+45 - 54,"""goes on light"" (1.67%)",0.359092423,Product Performance
+55 - 65,"""goes on light"" (1.67%)",-0.55402831,Product Performance
+16 - 24,"""goes on smooth"" (7.90%)",0.434599131,Product Performance
+25 - 34,"""goes on smooth"" (7.90%)",0.601548797,Product Performance
+35 - 44,"""goes on smooth"" (7.90%)",0.243799512,Product Performance
+45 - 54,"""goes on smooth"" (7.90%)",-0.21994956,Product Performance
+55 - 65,"""goes on smooth"" (7.90%)",-1.388597223,Product Performance
+16 - 24,"""gold"" (3.48%)",1.044156541,Product Reactions
+25 - 34,"""gold"" (3.48%)",0.661515324,Product Reactions
+35 - 44,"""gold"" (3.48%)",0.239961441,Product Reactions
+45 - 54,"""gold"" (3.48%)",-0.946874875,Product Reactions
+55 - 65,"""gold"" (3.48%)",-1.083069207,Product Reactions
+16 - 24,"""good value"" (6.86%)",-0.749463553,Product Reactions
+25 - 34,"""good value"" (6.86%)",-0.487625653,Product Reactions
+35 - 44,"""good value"" (6.86%)",-0.440191251,Product Reactions
+45 - 54,"""good value"" (6.86%)",0.540752184,Product Reactions
+55 - 65,"""good value"" (6.86%)",1.459082208,Product Reactions
+16 - 24,"""gorgeous"" (2.24%)",-0.512545318,Product Reactions
+25 - 34,"""gorgeous"" (2.24%)",-0.189831599,Product Reactions
+35 - 44,"""gorgeous"" (2.24%)",-0.189831599,Product Reactions
+45 - 54,"""gorgeous"" (2.24%)",0.721360077,Product Reactions
+55 - 65,"""gorgeous"" (2.24%)",0.0949158,Product Reactions
+16 - 24,"""grapefruit"" (1.99%)",0.086327698,Product Ingredients
+25 - 34,"""grapefruit"" (1.99%)",0.024665057,Product Ingredients
+35 - 44,"""grapefruit"" (1.99%)",-0.110992755,Product Ingredients
+45 - 54,"""grapefruit"" (1.99%)",0.123325283,Product Ingredients
+55 - 65,"""grapefruit"" (1.99%)",-0.110992755,Product Ingredients
+16 - 24,"""greasy"" (32.99%)",0.916210729,Product Description
+25 - 34,"""greasy"" (32.99%)",0.80707342,Product Description
+35 - 44,"""greasy"" (32.99%)",0.252945312,Product Description
+45 - 54,"""greasy"" (32.99%)",-0.706980638,Product Description
+55 - 65,"""greasy"" (32.99%)",-1.488427894,Product Description
+16 - 24,"""happy"" (38.56%)",0.090647133,Product Reactions
+25 - 34,"""happy"" (38.56%)",0.293040302,Product Reactions
+35 - 44,"""happy"" (38.56%)",0.604835183,Product Reactions
+45 - 54,"""happy"" (38.56%)",-0.368058619,Product Reactions
+55 - 65,"""happy"" (38.56%)",-1.015873046,Product Reactions
+16 - 24,"""harmful"" (2.45%)",0.892630447,Social Responsibility
+25 - 34,"""harmful"" (2.45%)",0.044262667,Social Responsibility
+35 - 44,"""harmful"" (2.45%)",0.118033778,Social Responsibility
+45 - 54,"""harmful"" (2.45%)",-0.309838668,Social Responsibility
+55 - 65,"""harmful"" (2.45%)",-0.730334002,Social Responsibility
+16 - 24,"""healing"" (11.41%)",0.059211808,Product Description
+25 - 34,"""healing"" (11.41%)",0.734226416,Product Description
+35 - 44,"""healing"" (11.41%)",0.465799554,Product Description
+45 - 54,"""healing"" (11.41%)",-0.781595862,Product Description
+55 - 65,"""healing"" (11.41%)",-0.825017855,Product Description
+16 - 24,"""healthy"" (17.74%)",0.960933297,Product Description
+25 - 34,"""healthy"" (17.74%)",0.933842308,Product Description
+35 - 44,"""healthy"" (17.74%)",0.074898615,Product Description
+45 - 54,"""healthy"" (17.74%)",-0.914719257,Product Description
+55 - 65,"""healthy"" (17.74%)",-1.142602278,Product Description
+16 - 24,"""heavenly"" (2.08%)",-0.257550555,Product Reactions
+25 - 34,"""heavenly"" (2.08%)",0.044791401,Product Reactions
+35 - 44,"""heavenly"" (2.08%)",0.783849515,Product Reactions
+45 - 54,"""heavenly"" (2.08%)",-0.627079612,Product Reactions
+55 - 65,"""heavenly"" (2.08%)",-0.302341956,Product Reactions
+16 - 24,"""herbal"" (1.43%)",0.03354438,Product Ingredients
+25 - 34,"""herbal"" (1.43%)",-0.436264859,Product Ingredients
+35 - 44,"""herbal"" (1.43%)",0.291939461,Product Ingredients
+45 - 54,"""herbal"" (1.43%)",0.503353618,Product Ingredients
+55 - 65,"""herbal"" (1.43%)",-0.436264859,Product Ingredients
+16 - 24,"""holy grail"" (5.24%)",1.26394641,Product Reactions
+25 - 34,"""holy grail"" (5.24%)",0.689743609,Product Reactions
+35 - 44,"""holy grail"" (5.24%)",-0.171560593,Product Reactions
+45 - 54,"""holy grail"" (5.24%)",-0.787778233,Product Reactions
+55 - 65,"""holy grail"" (5.24%)",-0.864805438,Product Reactions
+16 - 24,"""honey"" (6.04%)",-0.008459099,Product Ingredients
+25 - 34,"""honey"" (6.04%)",0.307347252,Product Ingredients
+35 - 44,"""honey"" (6.04%)",0.795155277,Product Ingredients
+45 - 54,"""honey"" (6.04%)",-0.45397163,Product Ingredients
+55 - 65,"""honey"" (6.04%)",-1.192732915,Product Ingredients
+16 - 24,"""hyaluronic acid"" (11.59%)",1.404311075,Product Ingredients
+25 - 34,"""hyaluronic acid"" (11.59%)",0.811604242,Product Ingredients
+35 - 44,"""hyaluronic acid"" (11.59%)",-0.373809423,Product Ingredients
+45 - 54,"""hyaluronic acid"" (11.59%)",-0.636486314,Product Ingredients
+55 - 65,"""hyaluronic acid"" (11.59%)",-0.979986865,Product Ingredients
+16 - 24,"""hydrate"" (5.29%)",1.342888105,Product Effects
+25 - 34,"""hydrate"" (5.29%)",0.494039102,Product Effects
+35 - 44,"""hydrate"" (5.29%)",-0.15719426,Product Effects
+45 - 54,"""hydrate"" (5.29%)",-0.727584859,Product Effects
+55 - 65,"""hydrate"" (5.29%)",-0.741058653,Product Effects
+16 - 24,"""hype"" (4.44%)",0.868173652,Product Reactions
+25 - 34,"""hype"" (4.44%)",0.900846854,Product Reactions
+35 - 44,"""hype"" (4.44%)",-0.065346404,Product Reactions
+45 - 54,"""hype"" (4.44%)",-0.639461238,Product Reactions
+55 - 65,"""hype"" (4.44%)",-1.148229669,Product Reactions
+16 - 24,"""hypoallergenic"" (2.09%)",0.594860605,Product Description
+25 - 34,"""hypoallergenic"" (2.09%)",0.67786634,Product Description
+35 - 44,"""hypoallergenic"" (2.09%)",-0.660601147,Product Description
+45 - 54,"""hypoallergenic"" (2.09%)",-0.691728298,Product Description
+55 - 65,"""hypoallergenic"" (2.09%)",-0.525716827,Product Description
+16 - 24,"""immediate"" (5.59%)",-0.150965882,Product Effects
+25 - 34,"""immediate"" (5.59%)",0.436722731,Product Effects
+35 - 44,"""immediate"" (5.59%)",0.458289286,Product Effects
+45 - 54,"""immediate"" (5.59%)",-0.048524748,Product Effects
+55 - 65,"""immediate"" (5.59%)",-1.164593951,Product Effects
+16 - 24,"""inexpensive"" (6.27%)",1.105221114,Product Reactions
+25 - 34,"""inexpensive"" (6.27%)",0.642481478,Product Reactions
+35 - 44,"""inexpensive"" (6.27%)",-0.095607363,Product Reactions
+45 - 54,"""inexpensive"" (6.27%)",-0.688373012,Product Reactions
+55 - 65,"""inexpensive"" (6.27%)",-0.914006389,Product Reactions
+16 - 24,"""inflammation"" (2.76%)",0.348742916,Product Effects
+25 - 34,"""inflammation"" (2.76%)",0.464990555,Product Effects
+35 - 44,"""inflammation"" (2.76%)",0,Product Effects
+45 - 54,"""inflammation"" (2.76%)",0,Product Effects
+55 - 65,"""inflammation"" (2.76%)",0,Product Effects
+16 - 24,"""instant"" (3.62%)",-0.557138942,Product Effects
+25 - 34,"""instant"" (3.62%)",-0.86103291,Product Effects
+35 - 44,"""instant"" (3.62%)",0.101297989,Product Effects
+45 - 54,"""instant"" (3.62%)",0.838522246,Product Effects
+55 - 65,"""instant"" (3.62%)",0.410819624,Product Effects
+16 - 24,"""intense"" (4.34%)",0.625066718,Product Effects
+25 - 34,"""intense"" (4.34%)",0.783362835,Product Effects
+35 - 44,"""intense"" (4.34%)",0.016235499,Product Effects
+45 - 54,"""intense"" (4.34%)",-0.556065847,Product Effects
+55 - 65,"""intense"" (4.34%)",-0.933541202,Product Effects
+16 - 24,"""itchy"" (30.00%)",0.875127008,Skin Descriptions
+25 - 34,"""itchy"" (30.00%)",0.864508682,Skin Descriptions
+35 - 44,"""itchy"" (30.00%)",0.15042628,Skin Descriptions
+45 - 54,"""itchy"" (30.00%)",-0.726470449,Skin Descriptions
+55 - 65,"""itchy"" (30.00%)",-1.344103059,Skin Descriptions
+16 - 24,"""jelly"" (2.40%)",0.681740053,Product Description
+25 - 34,"""jelly"" (2.40%)",0.79853922,Product Description
+35 - 44,"""jelly"" (2.40%)",-0.511280012,Product Description
+45 - 54,"""jelly"" (2.40%)",-0.786592334,Product Description
+55 - 65,"""jelly"" (2.40%)",-0.286024475,Product Description
+16 - 24,"""keratosis"" (13.05%)",0.191508593,Skin Descriptions
+25 - 34,"""keratosis"" (13.05%)",0.486302719,Skin Descriptions
+35 - 44,"""keratosis"" (13.05%)",-0.079615932,Skin Descriptions
+45 - 54,"""keratosis"" (13.05%)",-0.030124947,Skin Descriptions
+55 - 65,"""keratosis"" (13.05%)",-0.68641844,Skin Descriptions
+16 - 24,"""korean"" (1.90%)",-0.338851302,Product Origin
+25 - 34,"""korean"" (1.90%)",0.09492183,Product Origin
+35 - 44,"""korean"" (1.90%)",0.99313892,Product Origin
+45 - 54,"""korean"" (1.90%)",-0.430863785,Product Origin
+55 - 65,"""korean"" (1.90%)",-0.584217922,Product Origin
+16 - 24,"""large pores"" (2.28%)",0.904078808,Skin Descriptions
+25 - 34,"""large pores"" (2.28%)",0.642371784,Skin Descriptions
+35 - 44,"""large pores"" (2.28%)",-0.475830951,Skin Descriptions
+45 - 54,"""large pores"" (2.28%)",-0.198262896,Skin Descriptions
+55 - 65,"""large pores"" (2.28%)",-0.682024364,Skin Descriptions
+16 - 24,"""last all day"" (2.27%)",-1.084048387,Product Performance
+25 - 34,"""last all day"" (2.27%)",-0.441905075,Product Performance
+35 - 44,"""last all day"" (2.27%)",0.731905281,Product Performance
+45 - 54,"""last all day"" (2.27%)",0.027619067,Product Performance
+55 - 65,"""last all day"" (2.27%)",0.379762174,Product Performance
+16 - 24,"""last longer"" (2.71%)",0.501343649,Product Performance
+25 - 34,"""last longer"" (2.71%)",0.611012572,Product Performance
+35 - 44,"""last longer"" (2.71%)",-0.245449495,Product Performance
+45 - 54,"""last longer"" (2.71%)",-0.558789276,Product Performance
+55 - 65,"""last longer"" (2.71%)",-1.023576617,Product Performance
+16 - 24,"""lathers"" (6.83%)",0.984484323,Product Usage
+25 - 34,"""lathers"" (6.83%)",0.786997947,Product Usage
+35 - 44,"""lathers"" (6.83%)",0.12379743,Product Usage
+45 - 54,"""lathers"" (6.83%)",-0.763417484,Product Usage
+55 - 65,"""lathers"" (6.83%)",-1.20849872,Product Usage
+16 - 24,"""lavender"" (12.90%)",0.70771697,Product Ingredients
+25 - 34,"""lavender"" (12.90%)",0.79168339,Product Ingredients
+35 - 44,"""lavender"" (12.90%)",0.077968819,Product Ingredients
+45 - 54,"""lavender"" (12.90%)",-0.647740955,Product Ingredients
+55 - 65,"""lavender"" (12.90%)",-0.995601839,Product Ingredients
+16 - 24,"""legit"" (2.14%)",0.129968167,Product Reactions
+25 - 34,"""legit"" (2.14%)",0.464219776,Product Reactions
+35 - 44,"""legit"" (2.14%)",-0.378372821,Product Reactions
+45 - 54,"""legit"" (2.14%)",0.004623814,Product Reactions
+55 - 65,"""legit"" (2.14%)",-0.51068075,Product Reactions
+16 - 24,"""lemon"" (4.21%)",0.332592153,Product Ingredients
+25 - 34,"""lemon"" (4.21%)",0.018224228,Product Ingredients
+35 - 44,"""lemon"" (4.21%)",-0.150349877,Product Ingredients
+45 - 54,"""lemon"" (4.21%)",0.437381461,Product Ingredients
+55 - 65,"""lemon"" (4.21%)",-0.68796459,Product Ingredients
+16 - 24,"""life saver"" (2.89%)",0.706018086,Product Reactions
+25 - 34,"""life saver"" (2.89%)",-0.039223227,Product Reactions
+35 - 44,"""life saver"" (2.89%)",-0.480484531,Product Reactions
+45 - 54,"""life saver"" (2.89%)",0.117669681,Product Reactions
+55 - 65,"""life saver"" (2.89%)",0.039223227,Product Reactions
+16 - 24,"""light tint"" (1.62%)",-0.648638805,Product Description
+25 - 34,"""light tint"" (1.62%)",-0.320304341,Product Description
+35 - 44,"""light tint"" (1.62%)",0.599032158,Product Description
+45 - 54,"""light tint"" (1.62%)",-0.207732525,Product Description
+55 - 65,"""light tint"" (1.62%)",0.214411786,Product Description
+16 - 24,"""lightening"" (1.54%)",-0.327326835,Product Description
+25 - 34,"""lightening"" (1.54%)",-0.507356595,Product Description
+35 - 44,"""lightening"" (1.54%)",-0.283683257,Product Description
+45 - 54,"""lightening"" (1.54%)",0.943792375,Product Description
+55 - 65,"""lightening"" (1.54%)",0.240039679,Product Description
+16 - 24,"""lightweight"" (18.25%)",1.451387021,Product Description
+25 - 34,"""lightweight"" (18.25%)",0.509779585,Product Description
+35 - 44,"""lightweight"" (18.25%)",-0.132394213,Product Description
+45 - 54,"""lightweight"" (18.25%)",-0.702802922,Product Description
+55 - 65,"""lightweight"" (18.25%)",-0.96387936,Product Description
+16 - 24,"""like a charm"" (2.09%)",1.645448267,Product Performance
+25 - 34,"""like a charm"" (2.09%)",1.039230485,Product Performance
+35 - 44,"""like a charm"" (2.09%)",-0.584567148,Product Performance
+45 - 54,"""like a charm"" (2.09%)",-0.866025404,Product Performance
+55 - 65,"""like a charm"" (2.09%)",-0.866025404,Product Performance
+16 - 24,"""liquid"" (13.94%)",1.274367036,Product Description
+25 - 34,"""liquid"" (13.94%)",0.827031925,Product Description
+35 - 44,"""liquid"" (13.94%)",0.027670213,Product Description
+45 - 54,"""liquid"" (13.94%)",-0.857776606,Product Description
+55 - 65,"""liquid"" (13.94%)",-1.265143632,Product Description
+16 - 24,"""local"" (11.01%)",-1.074786311,Product Origin
+25 - 34,"""local"" (11.01%)",-0.722997324,Product Origin
+35 - 44,"""local"" (11.01%)",-0.21211905,Product Origin
+45 - 54,"""local"" (11.01%)",0.899265266,Product Origin
+55 - 65,"""local"" (11.01%)",1.222672127,Product Origin
+16 - 24,"""long lasting"" (6.53%)",0.529701748,Product Performance
+25 - 34,"""long lasting"" (6.53%)",0.444265982,Product Performance
+35 - 44,"""long lasting"" (6.53%)",-0.187958685,Product Performance
+45 - 54,"""long lasting"" (6.53%)",-0.307568757,Product Performance
+55 - 65,"""long lasting"" (6.53%)",-0.393004523,Product Performance
+16 - 24,"""look younger"" (2.18%)",-0.322965249,Product Performance
+25 - 34,"""look younger"" (2.18%)",-0.004398279,Product Performance
+35 - 44,"""look younger"" (2.18%)",0.170299736,Product Performance
+45 - 54,"""look younger"" (2.18%)",0.44776129,Product Performance
+55 - 65,"""look younger"" (2.18%)",-0.322965249,Product Performance
+16 - 24,"""lotion"" (29.03%)",0.298945845,Product Description
+25 - 34,"""lotion"" (29.03%)",0.71350865,Product Description
+35 - 44,"""lotion"" (29.03%)",0.666524865,Product Description
+45 - 54,"""lotion"" (29.03%)",-0.70061114,Product Description
+55 - 65,"""lotion"" (29.03%)",-1.479067963,Product Description
+16 - 24,"""love"" (30.71%)",1.152667487,Product Reactions
+25 - 34,"""love"" (30.71%)",0.955215515,Product Reactions
+35 - 44,"""love"" (30.71%)",-0.076937381,Product Reactions
+45 - 54,"""love"" (30.71%)",-0.776881787,Product Reactions
+55 - 65,"""love"" (30.71%)",-1.246788066,Product Reactions
+16 - 24,"""luminous"" (1.86%)",0.904053888,Product Description
+25 - 34,"""luminous"" (1.86%)",0.158820278,Product Description
+35 - 44,"""luminous"" (1.86%)",-0.1099525,Product Description
+45 - 54,"""luminous"" (1.86%)",0.036650833,Product Description
+55 - 65,"""luminous"" (1.86%)",-1.001789444,Product Description
+16 - 24,"""luxurious"" (2.91%)",1.466918834,Product Reactions
+25 - 34,"""luxurious"" (2.91%)",0.583848292,Product Reactions
+35 - 44,"""luxurious"" (2.91%)",-0.525463463,Product Reactions
+45 - 54,"""luxurious"" (2.91%)",-0.613040707,Product Reactions
+55 - 65,"""luxurious"" (2.91%)",-0.488972945,Product Reactions
+16 - 24,"""magic"" (7.41%)",0.776344917,Product Reactions
+25 - 34,"""magic"" (7.41%)",1.026697187,Product Reactions
+35 - 44,"""magic"" (7.41%)",-0.166901513,Product Reactions
+45 - 54,"""magic"" (7.41%)",-0.733355134,Product Reactions
+55 - 65,"""magic"" (7.41%)",-0.912900701,Product Reactions
+16 - 24,"""matte"" (7.69%)",1.614479933,Product Description
+25 - 34,"""matte"" (7.69%)",0.61443935,Product Description
+35 - 44,"""matte"" (7.69%)",-0.454072481,Product Description
+45 - 54,"""matte"" (7.69%)",-0.700929346,Product Description
+55 - 65,"""matte"" (7.69%)",-0.706334971,Product Description
+16 - 24,"""medicated"" (2.42%)",-0.116924607,Product Description
+25 - 34,"""medicated"" (2.42%)",0.432371171,Product Description
+35 - 44,"""medicated"" (2.42%)",-0.030760564,Product Description
+45 - 54,"""medicated"" (2.42%)",-0.116924607,Product Description
+55 - 65,"""medicated"" (2.42%)",-0.332334716,Product Description
+16 - 24,"""menthol"" (1.93%)",0.701707373,Product Ingredients
+25 - 34,"""menthol"" (1.93%)",0.817161201,Product Ingredients
+35 - 44,"""menthol"" (1.93%)",-0.137956828,Product Ingredients
+45 - 54,"""menthol"" (1.93%)",-0.484318311,Product Ingredients
+55 - 65,"""menthol"" (1.93%)",-1.06158745,Product Ingredients
+16 - 24,"""micellar"" (4.00%)",0.916515139,Product Ingredients
+25 - 34,"""micellar"" (4.00%)",0.687386354,Product Ingredients
+35 - 44,"""micellar"" (4.00%)",-0.589188304,Product Ingredients
+45 - 54,"""micellar"" (4.00%)",-1.070826361,Product Ingredients
+55 - 65,"""micellar"" (4.00%)",-1.028741483,Product Ingredients
+16 - 24,"""mild"" (26.38%)",-0.160654825,Product Usage
+25 - 34,"""mild"" (26.38%)",0.316584508,Product Usage
+35 - 44,"""mild"" (26.38%)",0.047251419,Product Usage
+45 - 54,"""mild"" (26.38%)",-0.077177318,Product Usage
+55 - 65,"""mild"" (26.38%)",-0.19845596,Product Usage
+16 - 24,"""milk"" (2.59%)",-0.272901223,Product Ingredients
+25 - 34,"""milk"" (2.59%)",0.434096764,Product Ingredients
+35 - 44,"""milk"" (2.59%)",-0.105454331,Product Ingredients
+45 - 54,"""milk"" (2.59%)",-0.533374166,Product Ingredients
+55 - 65,"""milk"" (2.59%)",-0.198480382,Product Ingredients
+16 - 24,"""mineral"" (15.19%)",1.377447165,Product Ingredients
+25 - 34,"""mineral"" (15.19%)",0.869445443,Product Ingredients
+35 - 44,"""mineral"" (15.19%)",-0.174285191,Product Ingredients
+45 - 54,"""mineral"" (15.19%)",-0.817952091,Product Ingredients
+55 - 65,"""mineral"" (15.19%)",-1.145727081,Product Ingredients
+16 - 24,"""mint"" (2.69%)",0.910796452,Product Ingredients
+25 - 34,"""mint"" (2.69%)",0.618164085,Product Ingredients
+35 - 44,"""mint"" (2.69%)",-0.452745856,Product Ingredients
+45 - 54,"""mint"" (2.69%)",-0.378031209,Product Ingredients
+55 - 65,"""mint"" (2.69%)",-0.907259959,Product Ingredients
+16 - 24,"""miracle"" (11.16%)",-0.641599201,Product Performance
+25 - 34,"""miracle"" (11.16%)",0.371685054,Product Performance
+35 - 44,"""miracle"" (11.16%)",0.805317618,Product Performance
+45 - 54,"""miracle"" (11.16%)",-0.247790036,Product Performance
+55 - 65,"""miracle"" (11.16%)",-0.942487102,Product Performance
+16 - 24,"""moisturize"" (32.79%)",1.26443521,Product Description
+25 - 34,"""moisturize"" (32.79%)",0.957649594,Product Description
+35 - 44,"""moisturize"" (32.79%)",-0.112581877,Product Description
+45 - 54,"""moisturize"" (32.79%)",-0.870398639,Product Description
+55 - 65,"""moisturize"" (32.79%)",-1.198293357,Product Description
+16 - 24,"""natural ingredients"" (2.74%)",1.178511302,Product Description
+25 - 34,"""natural ingredients"" (2.74%)",0.164991582,Product Description
+35 - 44,"""natural ingredients"" (2.74%)",-0.771924903,Product Description
+45 - 54,"""natural ingredients"" (2.74%)",-0.153206469,Product Description
+55 - 65,"""natural ingredients"" (2.74%)",-0.023570226,Product Description
+16 - 24,"""natural look"" (1.77%)",0.113714707,Product Effects
+25 - 34,"""natural look"" (1.77%)",0.274810541,Product Effects
+35 - 44,"""natural look"" (1.77%)",0,Product Effects
+45 - 54,"""natural look"" (1.77%)",0,Product Effects
+55 - 65,"""natural look"" (1.77%)",0,Product Effects
+16 - 24,"""natural"" (30.00%)",1.289952364,Product Description
+25 - 34,"""natural"" (30.00%)",0.91657049,Product Description
+35 - 44,"""natural"" (30.00%)",-0.220459323,Product Description
+45 - 54,"""natural"" (30.00%)",-0.739045259,Product Description
+55 - 65,"""natural"" (30.00%)",-1.154878818,Product Description
+16 - 24,"""neutral"" (5.13%)",1.287495812,Product Effects
+25 - 34,"""neutral"" (5.13%)",0.901247069,Product Effects
+35 - 44,"""neutral"" (5.13%)",-0.165535176,Product Effects
+45 - 54,"""neutral"" (5.13%)",-0.96010402,Product Effects
+55 - 65,"""neutral"" (5.13%)",-0.934354104,Product Effects
+16 - 24,"""new"" (27.32%)",1.039329471,Product Effects
+25 - 34,"""new"" (27.32%)",0.825850554,Product Effects
+35 - 44,"""new"" (27.32%)",0.099378117,Product Effects
+45 - 54,"""new"" (27.32%)",-0.691506063,Product Effects
+55 - 65,"""new"" (27.32%)",-1.380711706,Product Effects
+16 - 24,"""niacinamide"" (5.32%)",1.253533588,Product Ingredients
+25 - 34,"""niacinamide"" (5.32%)",0.819959971,Product Ingredients
+35 - 44,"""niacinamide"" (5.32%)",-0.586573487,Product Ingredients
+45 - 54,"""niacinamide"" (5.32%)",-0.875622565,Product Ingredients
+55 - 65,"""niacinamide"" (5.32%)",-0.852395407,Product Ingredients
+16 - 24,"""nighttime"" (5.94%)",0.363696484,Product Usage
+25 - 34,"""nighttime"" (5.94%)",0.44370971,Product Usage
+35 - 44,"""nighttime"" (5.94%)",0.461894534,Product Usage
+45 - 54,"""nighttime"" (5.94%)",-0.880145491,Product Usage
+55 - 65,"""nighttime"" (5.94%)",-0.581914374,Product Usage
+16 - 24,"""non-greasy"" (7.00%)",-0.34966291,Product Description
+25 - 34,"""non-greasy"" (7.00%)",-0.310811476,Product Description
+35 - 44,"""non-greasy"" (7.00%)",0.033995005,Product Description
+45 - 54,"""non-greasy"" (7.00%)",0.505068648,Product Description
+55 - 65,"""non-greasy"" (7.00%)",0.019425717,Product Description
+16 - 24,"""non-irritating"" (2.54%)",1.240967365,Product Usage
+25 - 34,"""non-irritating"" (2.54%)",0.564076075,Product Usage
+35 - 44,"""non-irritating"" (2.54%)",-0.493566565,Product Usage
+45 - 54,"""non-irritating"" (2.54%)",-1.325578776,Product Usage
+55 - 65,"""non-irritating"" (2.54%)",-1.635820617,Product Usage
+16 - 24,"""nourishing"" (4.00%)",0.202072594,Product Description
+25 - 34,"""nourishing"" (4.00%)",0.08660254,Product Description
+35 - 44,"""nourishing"" (4.00%)",-0.137120689,Product Description
+45 - 54,"""nourishing"" (4.00%)",-0.216506351,Product Description
+55 - 65,"""nourishing"" (4.00%)",0.404145188,Product Description
+16 - 24,"""oatmeal"" (5.67%)",0.112545426,Product Ingredients
+25 - 34,"""oatmeal"" (5.67%)",0.173933839,Product Ingredients
+35 - 44,"""oatmeal"" (5.67%)",0.436539832,Product Ingredients
+45 - 54,"""oatmeal"" (5.67%)",-0.351278146,Product Ingredients
+55 - 65,"""oatmeal"" (5.67%)",-0.583189932,Product Ingredients
+16 - 24,"""obsessed"" (4.55%)",1.153973496,Product Reactions
+25 - 34,"""obsessed"" (4.55%)",0.814702574,Product Reactions
+35 - 44,"""obsessed"" (4.55%)",-0.542381114,Product Reactions
+45 - 54,"""obsessed"" (4.55%)",-0.843955267,Product Reactions
+55 - 65,"""obsessed"" (4.55%)",-0.892422541,Product Reactions
+16 - 24,"""odorless"" (1.89%)",1.56006752,Product Performance
+25 - 34,"""odorless"" (1.89%)",0.656183155,Product Performance
+35 - 44,"""odorless"" (1.89%)",-0.856439659,Product Performance
+45 - 54,"""odorless"" (1.89%)",-1.225372052,Product Performance
+55 - 65,"""odorless"" (1.89%)",-0.579740363,Product Performance
+16 - 24,"""oil free"" (2.56%)",1.154693322,Product Description
+25 - 34,"""oil free"" (2.56%)",0.239051879,Product Description
+35 - 44,"""oil free"" (2.56%)",-0.168250694,Product Description
+45 - 54,"""oil free"" (2.56%)",-0.613441878,Product Description
+55 - 65,"""oil free"" (2.56%)",-0.929180306,Product Description
+16 - 24,"""olive"" (3.86%)",1.506859466,Product Ingredients
+25 - 34,"""olive"" (3.86%)",0.445086604,Product Ingredients
+35 - 44,"""olive"" (3.86%)",-0.144787208,Product Ingredients
+45 - 54,"""olive"" (3.86%)",-0.681036129,Product Ingredients
+55 - 65,"""olive"" (3.86%)",-0.93843561,Product Ingredients
+16 - 24,"""organic"" (1.76%)",0.757450555,Product Description
+25 - 34,"""organic"" (1.76%)",0.977355555,Product Description
+35 - 44,"""organic"" (1.76%)",-0.097735555,Product Description
+45 - 54,"""organic"" (1.76%)",-0.684148888,Product Description
+55 - 65,"""organic"" (1.76%)",-1.001789444,Product Description
+16 - 24,"""over the counter"" (2.52%)",-0.753726136,Product Description
+25 - 34,"""over the counter"" (2.52%)",0.52427566,Product Description
+35 - 44,"""over the counter"" (2.52%)",1.433623092,Product Description
+45 - 54,"""over the counter"" (2.52%)",-0.655418306,Product Description
+55 - 65,"""over the counter"" (2.52%)",-2.621574915,Product Description
+16 - 24,"""parabens"" (3.41%)",0.422137419,Product Description
+25 - 34,"""parabens"" (3.41%)",0.902342743,Product Description
+35 - 44,"""parabens"" (3.41%)",-0.119632691,Product Description
+45 - 54,"""parabens"" (3.41%)",-0.919974898,Product Description
+55 - 65,"""parabens"" (3.41%)",-1.055417425,Product Description
+16 - 24,"""paste"" (4.05%)",-0.833869829,Product Description
+25 - 34,"""paste"" (4.05%)",-0.228457487,Product Description
+35 - 44,"""paste"" (4.05%)",0.494991222,Product Description
+45 - 54,"""paste"" (4.05%)",0.578758968,Product Description
+55 - 65,"""paste"" (4.05%)",-0.514029346,Product Description
+16 - 24,"""peppermint"" (7.25%)",0.836479822,Product Ingredients
+25 - 34,"""peppermint"" (7.25%)",0.531660904,Product Ingredients
+35 - 44,"""peppermint"" (7.25%)",0.297730106,Product Ingredients
+45 - 54,"""peppermint"" (7.25%)",-0.928634379,Product Ingredients
+55 - 65,"""peppermint"" (7.25%)",-0.808124574,Product Ingredients
+16 - 24,"""peroxide"" (5.37%)",1.264105131,Product Ingredients
+25 - 34,"""peroxide"" (5.37%)",0.894467247,Product Ingredients
+35 - 44,"""peroxide"" (5.37%)",-0.20033809,Product Ingredients
+45 - 54,"""peroxide"" (5.37%)",-0.826747329,Product Ingredients
+55 - 65,"""peroxide"" (5.37%)",-1.027085419,Product Ingredients
+16 - 24,"""petroleum"" (2.30%)",0.730683451,Product Ingredients
+25 - 34,"""petroleum"" (2.30%)",0.974244601,Product Ingredients
+35 - 44,"""petroleum"" (2.30%)",-0.404920412,Product Ingredients
+45 - 54,"""petroleum"" (2.30%)",-0.83419694,Product Ingredients
+55 - 65,"""petroleum"" (2.30%)",-0.913354313,Product Ingredients
+16 - 24,"""plastic"" (22.16%)",-0.950824498,Social Responsibility
+25 - 34,"""plastic"" (22.16%)",-0.076819662,Social Responsibility
+35 - 44,"""plastic"" (22.16%)",0.558029622,Social Responsibility
+45 - 54,"""plastic"" (22.16%)",0.459468546,Social Responsibility
+55 - 65,"""plastic"" (22.16%)",-0.550782484,Social Responsibility
+16 - 24,"""powder"" (14.66%)",1.470500163,Product Description
+25 - 34,"""powder"" (14.66%)",0.831435791,Product Description
+35 - 44,"""powder"" (14.66%)",-0.316271654,Product Description
+45 - 54,"""powder"" (14.66%)",-0.757530387,Product Description
+55 - 65,"""powder"" (14.66%)",-1.033588806,Product Description
+16 - 24,"""prevents"" (2.99%)",0.695503552,Product Effects
+25 - 34,"""prevents"" (2.99%)",0.718947492,Product Effects
+35 - 44,"""prevents"" (2.99%)",-0.031258587,Product Effects
+45 - 54,"""prevents"" (2.99%)",-0.500137386,Product Effects
+55 - 65,"""prevents"" (2.99%)",-0.961201538,Product Effects
+16 - 24,"""protective"" (6.11%)",0.591504316,Product Effects
+25 - 34,"""protective"" (6.11%)",0.871690571,Product Effects
+35 - 44,"""protective"" (6.11%)",0.418549838,Product Effects
+45 - 54,"""protective"" (6.11%)",-0.940872362,Product Effects
+55 - 65,"""protective"" (6.11%)",-1.234894975,Product Effects
+16 - 24,"""psoriasis"" (22.28%)",-0.380391886,Skin Descriptions
+25 - 34,"""psoriasis"" (22.28%)",0.029640926,Skin Descriptions
+35 - 44,"""psoriasis"" (22.28%)",0.098803087,Skin Descriptions
+45 - 54,"""psoriasis"" (22.28%)",-0.049401544,Skin Descriptions
+55 - 65,"""psoriasis"" (22.28%)",0.27170849,Skin Descriptions
+16 - 24,"""puffiness"" (15.14%)",-0.353451738,Skin Descriptions
+25 - 34,"""puffiness"" (15.14%)",-0.03625146,Skin Descriptions
+35 - 44,"""puffiness"" (15.14%)",0.892692211,Skin Descriptions
+45 - 54,"""puffiness"" (15.14%)",-0.181257302,Skin Descriptions
+55 - 65,"""puffiness"" (15.14%)",-0.897223644,Skin Descriptions
+16 - 24,"""pure"" (3.18%)",1.250828297,Product Description
+25 - 34,"""pure"" (3.18%)",0.540898723,Product Description
+35 - 44,"""pure"" (3.18%)",-0.160579308,Product Description
+45 - 54,"""pure"" (3.18%)",-0.608511063,Product Description
+55 - 65,"""pure"" (3.18%)",-0.878960425,Product Description
+16 - 24,"""reduce"" (15.70%)",1.1896906,Product Effects
+25 - 34,"""reduce"" (15.70%)",0.560587194,Product Effects
+35 - 44,"""reduce"" (15.70%)",-0.479613488,Product Effects
+45 - 54,"""reduce"" (15.70%)",-0.286522344,Product Effects
+55 - 65,"""reduce"" (15.70%)",-0.703848366,Product Effects
+16 - 24,"""refreshing"" (11.51%)",0.913841164,Product Effects
+25 - 34,"""refreshing"" (11.51%)",0.123401909,Product Effects
+35 - 44,"""refreshing"" (11.51%)",0.3768761,Product Effects
+45 - 54,"""refreshing"" (11.51%)",-0.603668798,Product Effects
+55 - 65,"""refreshing"" (11.51%)",-0.913841164,Product Effects
+16 - 24,"""renewing"" (2.53%)",0.289723441,Product Effects
+25 - 34,"""renewing"" (2.53%)",0.167500184,Product Effects
+35 - 44,"""renewing"" (2.53%)",0.473058327,Product Effects
+45 - 54,"""renewing"" (2.53%)",-0.559049178,Product Effects
+55 - 65,"""renewing"" (2.53%)",-0.796705512,Product Effects
+16 - 24,"""repair"" (6.79%)",0.055576758,Product Effects
+25 - 34,"""repair"" (6.79%)",0.632516438,Product Effects
+35 - 44,"""repair"" (6.79%)",0.179962836,Product Effects
+45 - 54,"""repair"" (6.79%)",-0.431381504,Product Effects
+55 - 65,"""repair"" (6.79%)",-0.61134434,Product Effects
+16 - 24,"""retinol"" (3.57%)",1.206468606,Product Ingredients
+25 - 34,"""retinol"" (3.57%)",1.089073896,Product Ingredients
+35 - 44,"""retinol"" (3.57%)",0.294279982,Product Ingredients
+45 - 54,"""retinol"" (3.57%)",-0.782895801,Product Ingredients
+55 - 65,"""retinol"" (3.57%)",-1.26199313,Product Ingredients
+16 - 24,"""salicylic acid"" (11.78%)",1.27899823,Product Ingredients
+25 - 34,"""salicylic acid"" (11.78%)",0.758351493,Product Ingredients
+35 - 44,"""salicylic acid"" (11.78%)",-0.465436713,Product Ingredients
+45 - 54,"""salicylic acid"" (11.78%)",-0.932408528,Product Ingredients
+55 - 65,"""salicylic acid"" (11.78%)",-1.050493355,Product Ingredients
+16 - 24,"""scentless"" (2.13%)",1.39602666,Product Performance
+25 - 34,"""scentless"" (2.13%)",-0.212848183,Product Performance
+35 - 44,"""scentless"" (2.13%)",-1.240740444,Product Performance
+45 - 54,"""scentless"" (2.13%)",0.829941067,Product Performance
+55 - 65,"""scentless"" (2.13%)",0.97891096,Product Performance
+16 - 24,"""secret"" (1.96%)",-0.455149564,Product Reactions
+25 - 34,"""secret"" (1.96%)",0.465263998,Product Reactions
+35 - 44,"""secret"" (1.96%)",0.445035129,Product Reactions
+45 - 54,"""secret"" (1.96%)",-0.586637215,Product Reactions
+55 - 65,"""secret"" (1.96%)",-0.171945391,Product Reactions
+16 - 24,"""sensitive"" (23.56%)",1.439182896,Skin Descriptions
+25 - 34,"""sensitive"" (23.56%)",0.827411218,Skin Descriptions
+35 - 44,"""sensitive"" (23.56%)",-0.150410498,Skin Descriptions
+45 - 54,"""sensitive"" (23.56%)",-0.841531388,Skin Descriptions
+55 - 65,"""sensitive"" (23.56%)",-1.154016871,Skin Descriptions
+16 - 24,"""serum"" (31.07%)",1.216109806,Product Description
+25 - 34,"""serum"" (31.07%)",0.955569583,Product Description
+35 - 44,"""serum"" (31.07%)",-0.018774222,Product Description
+45 - 54,"""serum"" (31.07%)",-0.992351732,Product Description
+55 - 65,"""serum"" (31.07%)",-1.127219613,Product Description
+16 - 24,"""sheer"" (20.42%)",0.820435654,Product Effects
+25 - 34,"""sheer"" (20.42%)",0.815412578,Product Effects
+35 - 44,"""sheer"" (20.42%)",-0.04353332,Product Effects
+45 - 54,"""sheer"" (20.42%)",-0.480540883,Product Effects
+55 - 65,"""sheer"" (20.42%)",-1.215584255,Product Effects
+16 - 24,"""shimmer"" (3.58%)",0.697983879,Product Reactions
+25 - 34,"""shimmer"" (3.58%)",0.867860815,Product Reactions
+35 - 44,"""shimmer"" (3.58%)",-0.050283573,Product Reactions
+45 - 54,"""shimmer"" (3.58%)",-0.984606716,Product Reactions
+55 - 65,"""shimmer"" (3.58%)",-1.42143312,Product Reactions
+16 - 24,"""silicone"" (1.83%)",0.56824733,Product Ingredients
+25 - 34,"""silicone"" (1.83%)",0.32089261,Product Ingredients
+35 - 44,"""silicone"" (1.83%)",-0.3944305,Product Ingredients
+45 - 54,"""silicone"" (1.83%)",0.133705254,Product Ingredients
+55 - 65,"""silicone"" (1.83%)",-0.501394703,Product Ingredients
+16 - 24,"""silky"" (14.54%)",0.645973534,Product Description
+25 - 34,"""silky"" (14.54%)",0.812676381,Product Description
+35 - 44,"""silky"" (14.54%)",0.475103115,Product Description
+45 - 54,"""silky"" (14.54%)",-0.896027805,Product Description
+55 - 65,"""silky"" (14.54%)",-1.37113092,Product Description
+16 - 24,"""smoothing"" (3.63%)",1.201399479,Product Effects
+25 - 34,"""smoothing"" (3.63%)",0.648454112,Product Effects
+35 - 44,"""smoothing"" (3.63%)",0.070374865,Product Effects
+45 - 54,"""smoothing"" (3.63%)",-0.789203842,Product Effects
+55 - 65,"""smoothing"" (3.63%)",-1.151131718,Product Effects
+16 - 24,"""softening"" (2.11%)",0.200560717,Product Effects
+25 - 34,"""softening"" (2.11%)",-0.424835434,Product Effects
+35 - 44,"""softening"" (2.11%)",-0.523750132,Product Effects
+45 - 54,"""softening"" (2.11%)",0.998259889,Product Effects
+55 - 65,"""softening"" (2.11%)",0.902535988,Product Effects
+16 - 24,"""soothing"" (21.06%)",1.406220297,Product Effects
+25 - 34,"""soothing"" (21.06%)",0.490313911,Product Effects
+35 - 44,"""soothing"" (21.06%)",-0.313800903,Product Effects
+45 - 54,"""soothing"" (21.06%)",-0.686439476,Product Effects
+55 - 65,"""soothing"" (21.06%)",-0.578570415,Product Effects
+16 - 24,"""strawberry"" (3.44%)",1.085033316,Product Ingredients
+25 - 34,"""strawberry"" (3.44%)",-0.12329924,Product Ingredients
+35 - 44,"""strawberry"" (3.44%)",-0.378117671,Product Ingredients
+45 - 54,"""strawberry"" (3.44%)",-0.419217418,Product Ingredients
+55 - 65,"""strawberry"" (3.44%)",-0.493196962,Product Ingredients
+16 - 24,"""sun protection"" (21.70%)",0.678745468,Product Description
+25 - 34,"""sun protection"" (21.70%)",0.287161544,Product Description
+35 - 44,"""sun protection"" (21.70%)",0.551946864,Product Description
+45 - 54,"""sun protection"" (21.70%)",-0.496006304,Product Description
+55 - 65,"""sun protection"" (21.70%)",-1.350032195,Product Description
+16 - 24,"""sun screen"" (4.87%)",0.599008381,Product Description
+25 - 34,"""sun screen"" (4.87%)",0.124409433,Product Description
+35 - 44,"""sun screen"" (4.87%)",0.456167921,Product Description
+45 - 54,"""sun screen"" (4.87%)",-0.493029975,Product Description
+55 - 65,"""sun screen"" (4.87%)",-0.930766869,Product Description
+16 - 24,"""sunblock"" (7.29%)",1.170517423,Product Description
+25 - 34,"""sunblock"" (7.29%)",0.477918686,Product Description
+35 - 44,"""sunblock"" (7.29%)",0.084338592,Product Description
+45 - 54,"""sunblock"" (7.29%)",-0.600593001,Product Description
+55 - 65,"""sunblock"" (7.29%)",-1.129625985,Product Description
+16 - 24,"""supple"" (8.59%)",1.164016347,Skin Descriptions
+25 - 34,"""supple"" (8.59%)",0.768842206,Skin Descriptions
+35 - 44,"""supple"" (8.59%)",0.118283416,Skin Descriptions
+45 - 54,"""supple"" (8.59%)",-0.865619547,Skin Descriptions
+55 - 65,"""supple"" (8.59%)",-1.233911093,Skin Descriptions
+16 - 24,"""tinted moisturizer"" (7.53%)",1.255143265,Product Description
+25 - 34,"""tinted moisturizer"" (7.53%)",0.850653736,Product Description
+35 - 44,"""tinted moisturizer"" (7.53%)",-0.078446454,Product Description
+45 - 54,"""tinted moisturizer"" (7.53%)",-0.811430509,Product Description
+55 - 65,"""tinted moisturizer"" (7.53%)",-1.196308424,Product Description
+16 - 24,"""tinted sunscreen"" (8.72%)",1.402041259,Product Description
+25 - 34,"""tinted sunscreen"" (8.72%)",0.818438679,Product Description
+35 - 44,"""tinted sunscreen"" (8.72%)",-0.19763434,Product Description
+45 - 54,"""tinted sunscreen"" (8.72%)",-0.79053736,Product Description
+55 - 65,"""tinted sunscreen"" (8.72%)",-1.109077414,Product Description
+16 - 24,"""tinted"" (12.06%)",1.31048487,Product Description
+25 - 34,"""tinted"" (12.06%)",0.898438185,Product Description
+35 - 44,"""tinted"" (12.06%)",-0.055443591,Product Description
+45 - 54,"""tinted"" (12.06%)",-0.888357532,Product Description
+55 - 65,"""tinted"" (12.06%)",-1.234879973,Product Description
+16 - 24,"""travel"" (14.26%)",-1.347720928,Product Reactions
+25 - 34,"""travel"" (14.26%)",-0.833586368,Product Reactions
+35 - 44,"""travel"" (14.26%)",0.075291672,Product Reactions
+45 - 54,"""travel"" (14.26%)",0.837888749,Product Reactions
+55 - 65,"""travel"" (14.26%)",1.194986393,Product Reactions
+16 - 24,"""tretinoin"" (3.84%)",1.266501026,Product Ingredients
+25 - 34,"""tretinoin"" (3.84%)",0.654210092,Product Ingredients
+35 - 44,"""tretinoin"" (3.84%)",-0.307238482,Product Ingredients
+45 - 54,"""tretinoin"" (3.84%)",-1.051096064,Product Ingredients
+55 - 65,"""tretinoin"" (3.84%)",-1.121939643,Product Ingredients
+16 - 24,"""ultra"" (5.83%)",1.33818618,Product Reactions
+25 - 34,"""ultra"" (5.83%)",0.613123668,Product Reactions
+35 - 44,"""ultra"" (5.83%)",-0.388903716,Product Reactions
+45 - 54,"""ultra"" (5.83%)",-0.742427984,Product Reactions
+55 - 65,"""ultra"" (5.83%)",-1.228805321,Product Reactions
+16 - 24,"""unscented"" (23.21%)",1.132157187,Product Performance
+25 - 34,"""unscented"" (23.21%)",0.816229521,Product Performance
+35 - 44,"""unscented"" (23.21%)",0.169424931,Product Performance
+45 - 54,"""unscented"" (23.21%)",-0.848121273,Product Performance
+55 - 65,"""unscented"" (23.21%)",-1.379318263,Product Performance
+16 - 24,"""uv"" (2.35%)",0.943242218,Product Description
+25 - 34,"""uv"" (2.35%)",0.294763193,Product Description
+35 - 44,"""uv"" (2.35%)",-0.460902448,Product Description
+45 - 54,"""uv"" (2.35%)",-1.270161396,Product Description
+55 - 65,"""uv"" (2.35%)",-1.457737974,Product Description
+16 - 24,"""vacation"" (3.38%)",-0.407967418,Product Reactions
+25 - 34,"""vacation"" (3.38%)",-0.003708795,Product Reactions
+35 - 44,"""vacation"" (3.38%)",0.893819525,Product Reactions
+45 - 54,"""vacation"" (3.38%)",-0.530357643,Product Reactions
+55 - 65,"""vacation"" (3.38%)",-0.393132239,Product Reactions
+16 - 24,"""vanilla"" (3.32%)",0.396862697,Product Ingredients
+25 - 34,"""vanilla"" (3.32%)",0.377019562,Product Ingredients
+35 - 44,"""vanilla"" (3.32%)",-0.661437828,Product Ingredients
+45 - 54,"""vanilla"" (3.32%)",-0.03968627,Product Ingredients
+55 - 65,"""vanilla"" (3.32%)",0.42332021,Product Ingredients
+16 - 24,"""vaseline"" (4.60%)",1.223185679,Product Ingredients
+25 - 34,"""vaseline"" (4.60%)",0.61596136,Product Ingredients
+35 - 44,"""vaseline"" (4.60%)",0.14852969,Product Ingredients
+45 - 54,"""vaseline"" (4.60%)",-0.685857684,Product Ingredients
+55 - 65,"""vaseline"" (4.60%)",-1.397926491,Product Ingredients
+16 - 24,"""vitamin"" (13.62%)",1.340418484,Product Description
+25 - 34,"""vitamin"" (13.62%)",0.863110795,Product Description
+35 - 44,"""vitamin"" (13.62%)",-0.019784775,Product Description
+45 - 54,"""vitamin"" (13.62%)",-0.922465119,Product Description
+55 - 65,"""vitamin"" (13.62%)",-1.221709836,Product Description
+16 - 24,"""waterproof"" (5.35%)",1.001988972,Product Description
+25 - 34,"""waterproof"" (5.35%)",0.40778621,Product Description
+35 - 44,"""waterproof"" (5.35%)",0.36506575,Product Description
+45 - 54,"""waterproof"" (5.35%)",-0.687411039,Product Description
+55 - 65,"""waterproof"" (5.35%)",-1.266079089,Product Description
+16 - 24,"""witch hazel"" (1.56%)",0.874588684,Product Ingredients
+25 - 34,"""witch hazel"" (1.56%)",0.288937077,Product Ingredients
+35 - 44,"""witch hazel"" (1.56%)",-0.612966398,Product Ingredients
+45 - 54,"""witch hazel"" (1.56%)",-0.437270916,Product Ingredients
+55 - 65,"""witch hazel"" (1.56%)",-0.203010273,Product Ingredients
+16 - 24,"""wow"" (9.73%)",1.122292735,Product Reactions
+25 - 34,"""wow"" (9.73%)",0.956239218,Product Reactions
+35 - 44,"""wow"" (9.73%)",-0.071574792,Product Reactions
+45 - 54,"""wow"" (9.73%)",-0.887527418,Product Reactions
+55 - 65,"""wow"" (9.73%)",-1.110840769,Product Reactions
+16 - 24,"""wrinkles"" (34.22%)",0.57899465,Skin Descriptions
+25 - 34,"""wrinkles"" (34.22%)",0.322081439,Skin Descriptions
+35 - 44,"""wrinkles"" (34.22%)",0.214303215,Skin Descriptions
+45 - 54,"""wrinkles"" (34.22%)",-0.703064932,Skin Descriptions
+55 - 65,"""wrinkles"" (34.22%)",-0.448658192,Skin Descriptions
+16 - 24,"""zinc oxide"" (3.04%)",1.057168803,Product Ingredients
+25 - 34,"""zinc oxide"" (3.04%)",0.537314889,Product Ingredients
+35 - 44,"""zinc oxide"" (3.04%)",-0.158371966,Product Ingredients
+45 - 54,"""zinc oxide"" (3.04%)",-0.655291148,Product Ingredients
+55 - 65,"""zinc oxide"" (3.04%)",-1.419782198,Product Ingredients

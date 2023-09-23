@@ -5,7 +5,7 @@ import pandas as pd
 app = Dash(__name__)
 server = app.server
 
-df = pd.read_csv('/Users/melody/loreal_results/age_0921_for_interactivechart_new.csv')
+df = pd.read_csv('age_0921_for_interactivechart_new.csv')
 
 category_choices = df['Category'].sort_values().unique()
 term_choices = df['Term'].sort_values().unique()
