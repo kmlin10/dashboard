@@ -32,7 +32,7 @@ app.layout = html.Div([
         ], style={'width': '20%', 'display': 'inline-block'})
     ]),
 
-    dcc.Graph(id='indicator-graphic', style={'width': '180vh', 'height': '90vh'})
+    dcc.Graph(id='indicator-graphic')
 
 ])
 
@@ -43,10 +43,6 @@ app.layout = html.Div([
     Input("category_id", "value")
 )
 def set_term_options(selected_cat):
-    # dff = df[df.Category == selected_cat]
-    # counties_of_state = [{"label": i, "value": i} for i in cat_to_term[selected_cat]]
-    # values_selected = [x['value'] for x in counties_of_state]
-    # return counties_of_state, values_selected
 
     return (
         [{"label": i, "value": i} for i in cat_to_term[selected_cat]],
@@ -78,7 +74,8 @@ def update_graph(term_id):
 
     filtered_df = df[df.Term.isin(term_id)]
 
-    fig = px.line(filtered_df, x='Age group', y='Freq', color='Term', line_shape='spline')
+    fig = px.line(filtered_df, x='Age group', y='Freq', color='Term', line_shape='spline',
+                 width=1000, height=750)
 
     fig.update_layout(
 
@@ -94,4 +91,4 @@ def update_graph(term_id):
 
 
 if __name__ == '__main__':
-    app.run(debug=True, port=5000)
+    app.run(debug=True)
