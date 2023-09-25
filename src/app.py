@@ -5,7 +5,7 @@ import pandas as pd
 app = Dash(__name__)
 server = app.server
 
-df = pd.read_csv('age_0921_for_interactivechart_new.csv')
+df = pd.read_csv('src/age_0921_for_interactivechart_new.csv')
 
 category_choices = df['Category'].sort_values().unique()
 term_choices = df['Term'].sort_values().unique()
@@ -32,7 +32,7 @@ app.layout = html.Div([
         ], style={'width': '20%', 'display': 'inline-block'})
     ]),
 
-    dcc.Graph(id='indicator-graphic')
+    dcc.Graph(id='indicator-graphic', style={'width': '180vh', 'height': '90vh'})
 
 ])
 
@@ -50,7 +50,7 @@ def set_term_options(selected_cat):
 
     return (
         [{"label": i, "value": i} for i in cat_to_term[selected_cat]],
-        cat_to_term[selected_cat][0],
+        [cat_to_term[selected_cat][0],cat_to_term[selected_cat][1]]
     )
 
 
